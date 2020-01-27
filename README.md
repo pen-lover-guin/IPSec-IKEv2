@@ -1,5 +1,4 @@
 # IPSec-IKEv2
-How to setup IPSec IKEv2
 
 Server - Ubuntu 18.04
 
